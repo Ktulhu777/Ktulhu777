@@ -1,5 +1,8 @@
 <h1 align='center'><b> Привет! Меня зовут <i>Адам</i></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Адам | 💻 Backend Developer | 🛸 Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
 
 <h3><b>Технологии</b>:</h3>
 <p align="center">
