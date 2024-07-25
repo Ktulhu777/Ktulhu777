@@ -1,5 +1,3 @@
-<div align='center'><h1><b>Привет! 👋 Меня зовут <i>Адам</b></i>.</h1></div>
-
 <h1 align='center'><b> Привет! Меня зовут</b> <a href="https://hemant.codes"><b><i>Адам</i></b></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
