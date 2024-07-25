@@ -1,4 +1,4 @@
-<h1 align='center'><b> Привет! Меня зовут</b><b><i>Адам</i></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align='center'><b> Привет! Меня зовут <i>Адам</i></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
 <h3><b>Технологии</b>:</h3>
