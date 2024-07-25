@@ -1,6 +1,6 @@
 <div align='center'><h1><b>Привет! 👋 Меня зовут <i>Адам</b></i>.</h1></div>
 
-<h1><b>Привет!</b>b> <a href="https://hemant.codes"><b><i>Адам</b></i></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align='center'><b> Привет! </b> <a href="https://hemant.codes"><b><i>Адам</i></b></a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 
 <h3><b>Технологии</b>:</h3>
