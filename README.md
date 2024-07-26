@@ -28,4 +28,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" title="Ubuntu" />
+  <img width="12" />
 </div>
