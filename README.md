@@ -8,8 +8,7 @@
 В своей работе я использую современные фреймворки и библиотеки, такие как Django, DRF, FastAPI, чтобы обеспечить высокую производительность и надежность приложений. Я уделяю большое внимание написанию чистого, хорошо структурированного кода, следуя принципам SOLID и DRY.</b></h3>
 <hr>
 <h3><b>Связаться со мной </b>:</h3>
-<a href="https://t.me/Adam_Q63" target="_blank" rel="noreferrer"><img
-src="https://github.com/Ktulhu777/Ktulhu777/blob/main/ico_telegram.png" /></a>
+<a href="https://t.me/Adam_Q63" target="_blank" rel="noreferrer"><img src="https://github.com/Ktulhu777/Ktulhu777/blob/main/ico_telegram.png" height="20" width="40"/></a>
 <hr>
 <h3>&#128296;<b>Технологии</b>:</h3>
 <div align="center">
