@@ -12,6 +12,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="Django" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo" title="FastAPI" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" title="JS" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="css3 logo" title="HTML" />
