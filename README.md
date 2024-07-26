@@ -4,6 +4,9 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Backend Developer | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <hr>
+<h3><b> Я, Backend-разработчик с знаниями в области проектирования и разработки высоконагруженных, масштабируемых и надежных систем. Специализируюсь на создании API, разработке серверной логики и интеграции с Postgresql. 
+В своей работе я использую современные фреймворки и библиотеки, такие как Django, DRF, FastAPI, чтобы обеспечить высокую производительность и надежность приложений. Я уделяю большое внимание написанию чистого, хорошо структурированного кода, следуя принципам SOLID и DRY.</b></h3>
+<hr>
 <h3><b>Связаться со мной </b>:</h3>
 <a href="https://www.github.com/Ktulhu777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ktulhu777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
