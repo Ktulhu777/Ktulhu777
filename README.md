@@ -30,6 +30,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo" title="Ubuntu" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=celery" height="40" alt="celery logo" title="Celery" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm logo" title="Pycharm" />
   <img width="12" />
 </div>
