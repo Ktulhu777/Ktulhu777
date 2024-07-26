@@ -8,7 +8,7 @@
 <a href="https://www.github.com/Ktulhu777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ktulhu777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <hr>
-<h3><b>Технологии</b>:</h3>
+<h3>&#128296;<b>Технологии</b>:</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
