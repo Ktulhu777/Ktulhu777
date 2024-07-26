@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo" title="Bootstrap" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" title="Docker" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="Github" />
