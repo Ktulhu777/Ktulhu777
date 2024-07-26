@@ -1,3 +1,5 @@
+<img src="https://github.com/Ktulhu777/Ktulhu777/blob/main/gif_cat_programmer.gif" height="200" width="400"/>
+
 
 <h1 align='center'><b> Привет! Меня зовут <i>Адам</i></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
