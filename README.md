@@ -14,8 +14,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" title="JS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo" title="jQuery" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="css3 logo" title="HTML" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" title="CSS" />
@@ -27,8 +25,6 @@
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" title="Github" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo" title="Redis" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo" title="Elasticsearch" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" title="Postman" />
   <img width="12" />
