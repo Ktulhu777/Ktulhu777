@@ -9,7 +9,7 @@
 <hr>
 <h3><b>Связаться со мной </b>:</h3>
 <a href="https://t.me/Adam_Q63" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Ktulhu777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://github.com/Ktulhu777/Ktulhu777/blob/main/ico_telegram.png" /></a>
 <hr>
 <h3>&#128296;<b>Технологии</b>:</h3>
 <div align="center">
