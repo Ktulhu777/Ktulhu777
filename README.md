@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="<b> Привет! Меня зовут <i>Адам</i></b>">
+</p>
+
 <h1 align='center'><b> Привет! Меня зовут <i>Адам</i></b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="center">
