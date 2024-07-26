@@ -3,6 +3,7 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> | Backend Developer | <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
+<hr>
 <h3><b>Связаться со мной </b>:</h3>
 <a href="https://www.github.com/Ktulhu777" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Ktulhu777?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
